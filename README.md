@@ -6,4 +6,4 @@ The Plugin can be used with the 2.x and 3.x versions, following the instructions
 3. Select the folder where the score will be saved
 4. Drop it into your iPad ande enjoy it with Blackbinder
 
-You must have an open score in order to use the Plugin
+You must have an open score in order to use the Plugin.
